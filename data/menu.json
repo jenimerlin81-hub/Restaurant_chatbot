@@ -1,0 +1,44 @@
+﻿[
+    {
+        "name": "Masala Dosa",
+        "type": "vegetarian",
+        "cuisine": "south indian",
+        "price": 120,
+        "spice": "spicy"
+    },
+    {
+        "name": "Paneer Chettinad",
+        "type": "vegetarian",
+        "cuisine": "south indian",
+        "price": 180,
+        "spice": "spicy"
+    },
+    {
+        "name": "Veg Fried Rice",
+        "type": "vegetarian",
+        "cuisine": "chinese",
+        "price": 160,
+        "spice": "medium"
+    },
+    {
+        "name": "Chicken Biryani",
+        "type": "non-vegetarian",
+        "cuisine": "south indian",
+        "price": 250,
+        "spice": "spicy"
+    },
+    {
+        "name": "Chicken Noodles",
+        "type": "non-vegetarian",
+        "cuisine": "chinese",
+        "price": 220,
+        "spice": "medium"
+    },
+    {
+        "name": "Paneer Butter Masala",
+        "type": "vegetarian",
+        "cuisine": "north indian",
+        "price": 200,
+        "spice": "medium"
+    }
+]
